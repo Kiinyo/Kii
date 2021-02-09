@@ -1,0 +1,15 @@
+[package]
+name = "kii"
+version = "0.0.1"
+authors = ["Kathrine \"Kiinyo\" Lemet"]
+edition = "2018"
+
+description = "System level helper functions that I tend to use a lot! This is a collection of things that Rust either doesn't do natively or does but I was too lazy to look for!"
+repository = "https://github.com/Kiinyo/kii"
+keywords = ["kii"]
+license = "MIT License"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
